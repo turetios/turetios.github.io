@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://turetios.github.io/sitemap.html.gz
+Sitemap: https://turetios.github.io/app/sitemap.html.gz
+Sitemap: https://turetios.github.io/assets/sitemap.html.gz
+Sitemap: https://turetios.github.io/css/sitemap.html.gz
+Sitemap: https://turetios.github.io/data/sitemap.html.gz
+Sitemap: https://turetios.github.io/includes/sitemap.html.gz
+Sitemap: https://turetios.github.io/item/sitemap.html.gz
+Sitemap: https://turetios.github.io/src/sitemap.html.gz
